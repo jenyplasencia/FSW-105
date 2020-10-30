@@ -8,7 +8,7 @@ var e = 14;
 var scoresLastThreeGames = ['3', '13', '5']; 
 var b = scoresLastThreeGames[0];
 if  ( c > b){
-    console.log('C is greater than' + '' + b);
+    console.log('c is greater than' + ' ' + b);
 }
     else {
         console.log(b + '' + 'is greater than C' );
