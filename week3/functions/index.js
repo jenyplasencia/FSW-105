@@ -30,10 +30,11 @@ function compareNumbers(numb1, numb2, numb3){
     }
 }
 
+
 // calling function compareNumbers...
 compareNumbers(8, 6, 4);
-*/
 
+*/
 
 /*
 //Q3 Is the number "even" or "odd?
@@ -51,7 +52,7 @@ function evenOrOdd(numb){
 evenOrOdd(35);
 */
 
-/*
+
 // Q4. function compare if String is less than or equal to twenty characters long.
 function howLongIsString(str){
     if (str.length <= 20){
@@ -74,7 +75,7 @@ function howLongIsString(str){
 }
 
 howLongIsString('I think functions is a very interesting subject')
-*/
+
 
  
 
