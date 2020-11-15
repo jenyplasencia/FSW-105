@@ -60,16 +60,5 @@ function myString(str){
             myString('this is a very interesting subject') 
 */
 
-/*
-function capiWords(str){
-    return str.replace(/\w\S*g
-    function  tt(txt) {
-        return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
-    }
-    var result = str.charAt(0).toUpperCase() + str.slice(1);
-    console.log(result); *
-    
-    
 
-    capiWords('hello world... this is me!') */
     
