@@ -118,7 +118,7 @@ const result = arr.map(function(user){
 
 console.log(result)
 }
-``
+
 makeStrings(arr)
 
 
