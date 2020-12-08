@@ -1,6 +1,6 @@
 //-------SECTION A-----------//
 // #1
-/*
+
 const arr = [3, 6, 8, 2]
 function fiveAndGreaterOnly(arr){
 
@@ -8,9 +8,9 @@ const result = arr.filter(num => num >= 5)
 console.log(result)
 }
 fiveAndGreaterOnly(arr)
-*/
 
-/*
+
+
 //#2
 const arr = [3, 6, 8, 2]
 function evensOnly(arr){
@@ -19,9 +19,9 @@ function evensOnly(arr){
     console.log(result)
     }
     envensOnly(arr)
-*/
 
-/*
+
+
 //Extra Credit.
 
 function ofAge(arr){
@@ -35,13 +35,13 @@ console.log(ofAge([
 {name: "Kayne West", age: 16},
 {name: "Bob Zirrol", age: 100}
 ]));
-*/
+
 
 //----------- SECTION B -----------
 
 //#1 using .map()
 
-/*
+
 const arr = [2, 5, 100]
 
 function doubleNumbers(arr){
@@ -49,9 +49,9 @@ function doubleNumbers(arr){
     console.log(result)
 }
 doubleNumbers(arr)
-*/
 
-/*
+
+
 //#2 
 const arr = [2, 5, 100]
 
@@ -62,9 +62,9 @@ function stringItUp(arr){
 }
 
 stringItUp(arr)
-*/
 
-/*
+
+
 //#3
 
 const arr = ['john', 'JACOB', 'jinGleHeimer', 'smithdt']
@@ -77,9 +77,9 @@ function capitalizeNames(arr){
     console.log(capiTal)
 }
 capitalizeNames(arr)
-*/
 
-/*
+
+
 // EXTRA CREDIT
 //#1
 const arr = [
@@ -95,11 +95,11 @@ const result = arr.map(arr => arr.name)
 console.log(result);
 };
 namesOnly(arr)
-*/
+
 
 
 //EXTRA CREDIT #2
-/*
+
 const arr =  [
     {name: "Angelina Jolie", age: 80},
     {name: "Eric Jones", age: 2},
@@ -120,9 +120,8 @@ console.log(result)
 }
 ``
 makeStrings(arr)
-*/
 
-/*
+
 // --------- SECTION C -------------
 // use .reduce()
 
@@ -140,9 +139,8 @@ function total(arr){
 }
 
 total(arr)
-*/
 
-/*
+
 // #2
 let x=[];
 const arr = [1, 2, 3]
@@ -155,12 +153,8 @@ function stringConcat(arr){
 }
 
 stringConcat(arr)
-*/
 
 
-
-
-/*
 ////// EXTRA CREDIT 2 Given an Array of arrays, flatten them into a single array
 
 var arrays = [
@@ -172,10 +166,10 @@ var arrays = [
       return  a.concat(b);    
    }, []); 
    console.log (arrays);
-*/
+
 
 // *************SECTION D **********
-/*
+
 //#1
 const arr = [1, 3, 5, 2, 90, 20]
 
@@ -184,9 +178,8 @@ function greatestToLeasst(arr){
     console.log(arr)
 }
     greatestToLeasst(arr)
-*/
 
-/*
+
 //#2
 
 const arr = [1, 3, 5, 2, 90, 20]
@@ -196,9 +189,8 @@ function greatestToLeasst(arr){
         console.log(arr)
     }
         greatestToLeasst(arr)
-*/
 
-/*
+
 // #3
 
 const arr = ["dog", "wolf", "by", "family", "eaten"]
@@ -209,9 +201,7 @@ function lengthSort(arr){
 
 }
     lengthSort(arr)
-*/
 
-/*
 
 // EXTRA CREDIT
 
@@ -223,4 +213,3 @@ function alphabetical(arr){
     console.log(arr)
 }
 alphabetical(arr)
-*/

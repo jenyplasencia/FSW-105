@@ -1,4 +1,4 @@
-/*
+
 const ownersName = 'John';
 const age = 101;
 let petObjects= ['cat', 'dog'];
@@ -29,9 +29,9 @@ function runForLoop(pets){
 }
         runForLoop(['cat', 'dog'])
 console.log("************************");
-*/
 
-/*
+
+
 //#2 Rewrite this .map() using an arrow function:
 
 const carrots = ['bright orange', 'ripe', 'rotten']
@@ -44,9 +44,9 @@ return arr.map(function(carrot){
 }
 console.log( mapVegetables([carrots]));
 console.log("************************");
-*/
 
-/*
+
+
 //#3 Re-write .filter() using an arrow function:
 
 const people = [
@@ -68,9 +68,9 @@ filterForFriendly = arr =>{
 }
 console.log( filterForFriendly());
 console.log("************************");
-*/
 
-/*
+
+
 //#4 
 doMathSum =(a, b) => a + b
 console.log( doMathSum(4, 6));
@@ -79,9 +79,9 @@ console.log("************************");
 var produceProduct = (a, b) => a + b
 console.log( produceProduct (4, 5));
 console.log("************************");
-*/
 
-/*
+
+
 //#5 & #6
    
 let firstName = "Jane";
@@ -95,9 +95,8 @@ const printString = (firstName = "jane", lastName= "Doe", age= 40) => {
 }
 printString("Kat", "Stark", "40");
 console.log("************************");
-*/
 
-/*
+
 //#7
 const animals = [
     {
@@ -119,14 +118,13 @@ const animals = [
     }
 ];
 
-const filterForDogs = arr => animals.forEach.filter(animal.value === "dog"); //=> animal.type === "dog"; =>
+const filterForDogs = arr => animals.forEach.filter(animal.value === "dog"); 
     console.log(true)
     return true;
     console.log(filterForDogs);
 console.log("************************");
-*/
 
-/*
+
 // #8
 const LocationAndName = (name, location) => {
        
@@ -135,7 +133,7 @@ const LocationAndName = (name, location) => {
 }
 LocationAndName("Janice", "Hawaii");
 console.log("************************");
-*/
+
 
 
     
